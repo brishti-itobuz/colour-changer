@@ -1,0 +1,27 @@
+bg-container {
+  position: relative;
+}
+
+#orange-btn {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+#red-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#violet-btn {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+#deep-violet-btn {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
